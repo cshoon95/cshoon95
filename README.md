@@ -2,10 +2,5 @@
 
 <br>
 
-### 📊 Git 정보
-[![Github](https://www.codenary.co.kr/widget/github/api?username=코딩병원)](https://www.codenary.co.kr/user-profile/detail/코딩병원?github_ride=true&utm_source=github)
-
-<br>
-
 ### 🤔 기술 스택
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#) [![React.js](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#) [![Recoil](https://img.shields.io/badge/recoil-4FC08D?style=for-the-badge&logo=recoil&logoColor=white)](#) [![React Query](https://img.shields.io/badge/react%20query-E34F26?style=for-the-badge&logo=reactquery&logoColor=white)](#)
